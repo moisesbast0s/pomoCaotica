@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pomoCaotica</string>
+
+    <string name="developers">Desenvolvido por\nMoises Bastos\nLevi Ambe\nAdeilson Dorneles\nAugusto Morais\nTassio Fernandes\nFelipe Barros</string>
+    <string name="inspiracao">Inspiração de Design UI\nKamal Panara</string>
+
+    <string name="dis_eprof">Disciplina: Tópicos em Software Básico\nProf. Me. José Erivan Garçon</string>
+</resources>
